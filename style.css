@@ -1,0 +1,15 @@
+.Navbar ul li {
+    display: inline-block;
+    justify-content: space-around;
+}
+
+.Navbar nav a{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    color: black;
+}
+
+.Navbar ul li {
+
+}
